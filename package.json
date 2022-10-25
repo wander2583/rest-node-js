@@ -1,0 +1,22 @@
+{
+  "name": "rest_node",
+  "version": "1.0.0",
+  "description": "Microservice criado durante o treinamento da DIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "WanderleiRPereira",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wander2583/rest-node-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wander2583/rest-node-js/issues"
+  },
+  "homepage": "https://github.com/wander2583/rest-node-js#readme"
+}
+
