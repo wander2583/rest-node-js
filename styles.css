@@ -1,4 +1,4 @@
-//reset do css//
+/*Reset css*/
 **, *:after,*:before {
   margin: 0;    
   padding: 0;    
@@ -16,7 +16,7 @@ ol, ul {
   list-style: none;
 }
 
-//reset do css//
+/*reset do css*/
 
 h1 {
   color: blue;
@@ -29,6 +29,3 @@ h2 {
   color: blue;
 }
 
-table {
-  text-decoration: nome;
-}
